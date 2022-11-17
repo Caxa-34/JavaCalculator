@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="indoA">A:</string>
+    <string name="infoB">B:</string>
+    <string name="infoRes">Result:</string>
+    <string name="infoAdd">+</string>
+    <string name="infoSub">-</string>
+    <string name="infoMult">*</string>
+    <string name="infoDiv">/</string>
+    <string name="infoSin">Sin</string>
+    <string name="infoCos">Cos</string>
+    <string name="infoTan">Tan</string>
+    <string name="infoSqrt">Sqrt</string>
+    <string name="infoQrtB">QrtB</string>
+    <string name="infoPow">Pow</string>
+    <string name="infoPowB">PowB</string>
+    <string name="infoLog">Log</string>
+    <string name="infoLg">Lg</string>
+    <string name="infoLn">Ln</string>
+</resources>
