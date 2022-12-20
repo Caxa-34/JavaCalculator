@@ -116,10 +116,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-    public void add_CLick(View v)
-    {
-        calculation("add");
-    }
+    public void add_CLick(View v) { calculation("add"); }
     public void sub_CLick(View v)
     {
         calculation("sub");
